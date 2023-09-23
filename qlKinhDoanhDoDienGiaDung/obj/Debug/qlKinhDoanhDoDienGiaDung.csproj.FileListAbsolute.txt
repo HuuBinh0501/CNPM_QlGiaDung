@@ -1,0 +1,21 @@
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe.config
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.pdb
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Form1.resources
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Properties.Resources.resources
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.exe
+C:\Users\Administrator\Desktop\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe.config
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.AssemblyReference.cache
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Đăng_Ký.resources
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Login.resources
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Properties.Resources.resources
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.GenerateResource.cache
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CoreCompileInputs.cache
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.exe
+D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.pdb
