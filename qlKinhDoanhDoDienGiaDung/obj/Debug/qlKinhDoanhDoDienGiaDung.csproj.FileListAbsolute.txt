@@ -19,3 +19,15 @@ D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDie
 D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CoreCompileInputs.cache
 D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.exe
 D:\Đồ án Công Nghệ Phần Mềm\qlKinhDoanhDoDienGiaDung\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe.config
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.exe
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\bin\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Đăng_Ký.resources
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Login.resources
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Properties.Resources.resources
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.GenerateResource.cache
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.exe
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.pdb
+D:\LapTrinhWindows\Đồ Án\DoAnCNPM\qlKinhDoanhDoDienGiaDung\obj\Debug\qlKinhDoanhDoDienGiaDung.Giaodienhethong.resources

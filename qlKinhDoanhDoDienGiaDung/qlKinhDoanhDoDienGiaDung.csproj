@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Giaodienhethong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giaodienhethong.Designer.cs">
+      <DependentUpon>Giaodienhethong.cs</DependentUpon>
+    </Compile>
     <Compile Include="Đăng Ký.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Giaodienhethong.resx">
+      <DependentUpon>Giaodienhethong.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Đăng Ký.resx">
       <DependentUpon>Đăng Ký.cs</DependentUpon>
     </EmbeddedResource>
@@ -100,6 +109,63 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\white-background-with-orange-geometric-free-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5ddc2183e88cceac19fb1eb1062bc0ba--icons.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\support-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-gia-dung-nha-bep-3_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-gia-dung-nha-bep-1_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-gia-dung-nha-bep-may-lam-sua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-gia-dung-nha-bep-tu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-gia-dung-nha-bep-may-ep-cham.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-suc-khoe-gia-dinh-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-gia-dung-nha-bep-4_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-suc-khoe-gia-dinh-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-suc-khoe-gia-dinh-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-suc-khoe-gia-dinh-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-suc-khoe-gia-dinh-4_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-suc-khoe-gia-dinh-1_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
